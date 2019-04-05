@@ -1,0 +1,10 @@
+C:\Users\ngota\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe.config
+C:\Users\ngota\source\repos\DoAn\DoAn\bin\Debug\DoAn.exe
+C:\Users\ngota\source\repos\DoAn\DoAn\bin\Debug\DoAn.pdb
+C:\Users\ngota\source\repos\DoAn\DoAn\obj\Debug\DoAn.csprojAssemblyReference.cache
+C:\Users\ngota\source\repos\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+C:\Users\ngota\source\repos\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+C:\Users\ngota\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.cache
+C:\Users\ngota\source\repos\DoAn\DoAn\obj\Debug\DoAn.csproj.CoreCompileInputs.cache
+C:\Users\ngota\source\repos\DoAn\DoAn\obj\Debug\DoAn.exe
+C:\Users\ngota\source\repos\DoAn\DoAn\obj\Debug\DoAn.pdb
