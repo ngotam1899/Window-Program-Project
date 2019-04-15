@@ -1,0 +1,10 @@
+D:\LaptrinhWindow\Invader\Invader\bin\Debug\Invader.exe.config
+D:\LaptrinhWindow\Invader\Invader\bin\Debug\Invader.exe
+D:\LaptrinhWindow\Invader\Invader\bin\Debug\Invader.pdb
+D:\LaptrinhWindow\Invader\Invader\obj\Debug\Invader.csprojAssemblyReference.cache
+D:\LaptrinhWindow\Invader\Invader\obj\Debug\Invader.Form1.resources
+D:\LaptrinhWindow\Invader\Invader\obj\Debug\Invader.Properties.Resources.resources
+D:\LaptrinhWindow\Invader\Invader\obj\Debug\Invader.csproj.GenerateResource.cache
+D:\LaptrinhWindow\Invader\Invader\obj\Debug\Invader.csproj.CoreCompileInputs.cache
+D:\LaptrinhWindow\Invader\Invader\obj\Debug\Invader.exe
+D:\LaptrinhWindow\Invader\Invader\obj\Debug\Invader.pdb
